@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    font-family:Inter,Segoe UI,Arial,sans-serif;
+
+    background:
+    radial-gradient(circle at top,#1e3a8a 0%,#0f172a 45%,#020617 100%);
+
+    min-height:100vh;
+
+    color:#e5e7eb;
+}
+
+button,
+input,
+textarea,
+select{
+
+    font-family:inherit;
+}
+
+::-webkit-scrollbar{
+    width:8px;
+}
+
+::-webkit-scrollbar-thumb{
+
+    background:#334155;
+    border-radius:20px;
+}
