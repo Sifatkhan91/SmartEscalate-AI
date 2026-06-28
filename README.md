@@ -24,41 +24,7 @@ Built with **FastAPI**, **React**, **OpenAI**, and **VocalBridge AI**.
 
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-</div>
 
----
-
-# 🎥 Demo
-
-> **Demo Video:** *(Add your YouTube or Loom link after recording)*
-
----
-
-# 📸 Application Preview
-
-## 🏠 Home Page
-
-![Home](screenshots/home.png)
-
----
-
-## 📊 Human Decision Index
-
-![HDI](screenshots/hdi-analysis.png)
-
----
-
-## 📋 AI Executive Briefing
-
-![Executive Briefing](screenshots/executive-briefing.png)
-
----
-
-## 🎙 Voice Approval Session
-
-![Voice Session](screenshots/voice-session.png)
-
----
 
 # 🚀 Overview
 
